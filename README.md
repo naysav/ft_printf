@@ -1,4 +1,4 @@
-# # ft_printf
+# ft_printf
 Here a part of printf() is implemented from scratch.
 ## What it does
 - regular characters are just printed.
